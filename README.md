@@ -2,9 +2,9 @@
 
 ## Integrantes
 -----------
-- Carrasco Cunya Antony Sthif - U20181B702
-- Miner Lozano Becerra - U201923809 
-- Prado Valer Luis - U201711121
+- Carrasco Cunya Antony Sthif - U20181B702 (ColtMoons)
+- Miner Lozano Becerra - U201923809 (Apolosmllb)
+- Prado Valer Luis - U201711121 (Prado71)
 
 ## Exposicion del Trabajo Parcial
 -----------
