@@ -5,6 +5,7 @@
 ------
 - Miner Lozano Becerra
 - Antony Sthif Carrasco Cunya
+- Prado Valer Luis Eduardo
 
 ## Resumen Ejecutivo
 ------
