@@ -89,8 +89,7 @@ nodos= readNodes("Nodos.csv")
 grafo=createGrah(nodos)
 ````
 ## Conclusiones
-Podemos concluir que el tema de grafos y los distintos algoritmos que se usan para calcular distancias y que implican otras variables hoy en día es muy importante para la industria que esta en el mundo ya que todas las empresas grandes y que conocen del potencial y ayuda que estos ofrecen los usan par maximizar sus ganancias la cuales se ven de forma indirectamente ya que al poder realizar una serie de caminos y  así organizarse mejor hace que estas indirectamente como ya mencione puedan maximizar sus ganancias 
-
+Para concluir, la realización de los grafos y los distintos algoritmos que se usan para calcular distancias, que implican otras variables, hoy en día es muy importante ya que en el contexto real se aplica día a día y todas las personas hacen uso de esto directa o indirectamente. Aplicaciones como google maps o waze ayudan diariamente a muchas personas y tienen similitud con nuestro trabajo, puesto a que se aplico un factor de trafico para poder poder simular una situacion de la vida real y podemos observar una aplicación hacia el mundo real, el cual nos brinda una mejor idea de la importancia de estos algoritmos y de nuestro rol con la sociedad. Esto nos brinda un mayor conocmiento sobre la importancia de los algoritmos eficientes en el día a día y como es que afectan a todos.
 ## Exposición Trabajo Pacial
 ----
 Enlace https://www.youtube.com/watch?app=desktop&v=7886otI_7fM&feature=youtu.be
@@ -98,4 +97,4 @@ Enlace https://www.youtube.com/watch?app=desktop&v=7886otI_7fM&feature=youtu.be
 ## Exposición Trabajo Final 
 ----
 
-Enlace: 
+Enlace: https://www.youtube.com/watch?v=Z05SCnW_naI
