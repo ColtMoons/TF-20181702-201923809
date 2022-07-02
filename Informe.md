@@ -88,9 +88,11 @@ def createGrah(n):
 nodos= readNodes("Nodos.csv")
 grafo=createGrah(nodos)
 ````
+## Conclusiones
+Podemos concluir que el tema de grafos y los distintos algoritmos que se usan para calcular distancias y que implican otras variables hoy en día es muy importante para la industria que esta en el mundo ya que todas las empresas grandes y que conocen del potencial y ayuda que estos ofrecen los usan par maximizar sus ganancias la cuales se ven de forma indirectamente ya que al poder realizar una serie de caminos y  así organizarse mejor hace que estas indirectamente como ya mencione puedan maximizar sus ganancias 
+
 ## Exposición Trabajo Pacial
 ----
-
 Enlace https://www.youtube.com/watch?app=desktop&v=7886otI_7fM&feature=youtu.be
 
 ## Exposición Trabajo Final 
